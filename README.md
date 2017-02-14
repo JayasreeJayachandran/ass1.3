@@ -1,17 +1,16 @@
 # ass1.3
-1.pwd: pwd command prints the current directory that you are working
-  ex:
-2.vi: its a visual editor ,used to edit a file.vi is an interactive text editor which is display-oriented,the screen of your terminal acts as a window into the file you are editing. Changes you make to the file are reflected in what you see.
-3. touch:it gives the update and modification 
-4.mkdir:it is used to create new directories which is not already exist in the file system.
-5.rm:rm is used to remove file or directory by default it does not remove directories
-6.ls:list the directory content in alphabetic order.
-7.echo:
-8. cat
-9. who
-10. cd
-11. date
-12. cal
-13. mv
-14. cp
-15. which
+1.pwd:It displays the full pathname of the current working directory. 
+2.vi: It is the default editor of unix operating system(Visual Editor)
+3.touch - Change file timestamps, creates a new file if the given filename doesnt exists.  
+4.mkdir - Create new folder which can contain other files/folders.
+5.rm - Remove files from the current driectory.
+6.ls - List information about file
+7.echo - Display message on screen
+8.cat - Concatenate files and print on the standard output
+9.who - Print the information of user currently logged in.
+10.cd - change the directory to the name given.
+11.date - Display or change the date & time.
+12.cal - Display a calendar. 
+13.mv - Move or rename files or directories.
+14.cp - Copy one or more files to another location.
+15.which -Locate a program file in the user's path, to know the complete path of the given filename.
